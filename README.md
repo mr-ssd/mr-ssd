@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hey there! 👋🚀  
 
-<!--
-**mr-ssd/mr-ssd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a **DevOps & Cybersecurity Engineer** 🛠️🔐 working at **Khalibre**, where I automate, secure, and optimize infrastructure to keep everything running smoothly.  
 
-Here are some ideas to get you started:
+### 🔥 What I Do  
+- 🏗️ **Building scalable & secure DevOps pipelines**  
+- 🔒 **Strengthening cybersecurity defenses**  
+- 🤖 **Automating everything** (because manual work is overrated 🚀)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack  
+- ☁️ **Cloud & Infra:** AWS, S3, Cloudflare  
+- ⚙️ **DevOps:** Kubernetes, Ansible, Terraform, CI/CD  
+- 🛡️ **Security:** Vault, Wazuh, Keycloak, PrivacyIDEA  
+
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mr-ssd&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 📬 How to Reach Me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/sidasay) 
+
+### ⚡ Fun Fact  
+I love breaking things 🔨… just to fix them better! 😆  
